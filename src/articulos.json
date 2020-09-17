@@ -1,0 +1,5 @@
+{
+    "articulos":[{"id":1,"descripcion":"Samsung Galaxy Note 8","precio":899.99,"categoria":"Smartphones","marca":"Samsung"},
+    {"id":2,"descripcion":"ASUS ZenBook 14","precio":1239.99,"categoria":"Laptops","marca":"Asus"},
+    {"id":3,"descripcion":"Motorola Moto G8 Plus","precio":239.99,"categoria":"Smartphones","marca":"Lenovo"}]
+}
